@@ -14,6 +14,3 @@ This work is part of the Data Science 1 Tutorial at the University of Potsdam.
 ## Notes
 
 We run the code on Jupyter Notebook. The folder Data contains the data for the exercises.
-The folder Summary contains notes and code summarizing the tutorial.
-Please, if you want to re-run the code, check the path of the files beacuse they can change.
-
